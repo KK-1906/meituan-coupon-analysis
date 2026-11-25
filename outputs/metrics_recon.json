@@ -1,0 +1,12 @@
+{
+  "order_coupon_gmv": 21825581.339997746,
+  "coupon_level_gmv": 24889648.109996334,
+  "attr_total": 21825584.71000277,
+  "valid_coupon_gmv": 16840622.13999836,
+  "excluded_coupon_gmv": 4984962.570000098,
+  "gap_to_total": 4984959.199999385,
+  "status_cleaned_expire": 0.8475163196391223,
+  "status_valid_expire": 0.9064570296187804,
+  "unused_rate_valid": 0.9494282565271372,
+  "status2_no_order": 87720
+}

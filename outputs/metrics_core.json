@@ -1,0 +1,32 @@
+{
+  "funnel": {
+    "issued": 12112247.0,
+    "receive_users": 49672.0,
+    "used_coupons": 580102.0,
+    "use_users": 30553.0,
+    "coupon_orders": 566129.0,
+    "total_orders": 973363.0,
+    "buyer_users": 47208.0,
+    "visit_users": 49598.0
+  },
+  "invalid_design_share": 0.18268790258322837,
+  "aov_coupon": 38.552311116366,
+  "aov_plain": 43.13005564368173,
+  "within_aov": {
+    "users": 26215.0,
+    "aov_c": 57.49,
+    "aov_n": 51.8,
+    "diff": 5.69,
+    "lift": 0.7705
+  },
+  "reach_rate": 0.5928,
+  "gmv": 39389606.419995174,
+  "subsidy": 2228200.0105999834,
+  "coupon_gmv": 21825581.339997157,
+  "coupon_subsidy": 1893115.0205999902,
+  "coupon_orders": 566129.0,
+  "orders": 973363.0,
+  "issued": 12112247.0,
+  "used_coupons": 580102.0,
+  "roi_gross": 11.528925132652487
+}

@@ -1,0 +1,24 @@
+{
+  "use_within_1d": 0.8688307596445124,
+  "use_within_3d": 0.9104257719746321,
+  "used": 568121.0,
+  "face_cost": 3929592.529999982,
+  "avg_face": 6.91682322955846,
+  "coupon_gmv": 21825581.33999716,
+  "roi_face": 5.554158904103287,
+  "sim": {
+    "low_issued_share": 0.4490559553968253,
+    "low_cost_share": 0.2015716860857134,
+    "low_gmv_share": 0.08189341409264025,
+    "low_cvr": 0.00860735446380012,
+    "cut50_cost_saved": 391771.0,
+    "cut50_gmv_lost": 781043.0,
+    "cut50_net_gmv_at_50pct_incremental": -1249.5
+  },
+  "ab": {
+    "baseline_cvr": 0.048,
+    "n_per_group_cvr_10rel": 32607,
+    "n_per_group_cvr_20rel": 8518,
+    "daily_orders": 5377.696132596685
+  }
+}
